@@ -1,4 +1,4 @@
-let a = "Masai School 1st";
+let a = "Masai School";
 console.log(a);
 let b = "A Transformation in Education";
 console.log(b);
