@@ -1,4 +1,4 @@
-let name = "Murli Khaire";
+let name = "Murli Khire";
 console.log(name);
 let father_name = "Badri Prasad Khaire";
 console.log(father_name);
